@@ -14,9 +14,9 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: King" //ur yt chanel name
+global.socialm = "GitHub: https://github.com/Samue-l1/ClassicV2" //
+global.location = "Kenya, Nairobi" //ur location
 
 //new
 global.botname = 'ClASSIC-V2' //ur bot name
@@ -28,7 +28,7 @@ global.themeemoji = '🪀'
 global.wm = "Classic Bot Inc."
 global.botscript = 'https://github.com/Samue-l1/ClassicV2' //script link
 global.packname = "Sticker By"
-global.author = "『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』\n\n+254703542294"
+global.author = "『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』\n\n『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』"
 global.creator = "254703542294@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["254703542294"] // Premium User
