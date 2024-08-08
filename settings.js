@@ -20,7 +20,7 @@ global.location = "Kenya, Nairobi" //ur location
 
 //new
 global.botname = 'ClASSIC-V2' //ur bot name
-global.ownernumber = '254742491666' //ur owner number
+global.ownernumber = '254796790938' //ur owner number
 global.ownername = '『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』' //ur owner name
 global.websitex = "https://t.me/+hhQQxFUABd81MDM0"
 global.wagc = "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"
@@ -31,7 +31,7 @@ global.packname = "Sticker By"
 global.author = "『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』\n\n『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』"
 global.creator = "254703542294@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254703542294"] // Premium User
+global.premium = ["254796790938"] // Premium User
 global.hituet = 0
 
 //bot sett
